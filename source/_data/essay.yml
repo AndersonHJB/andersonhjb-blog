@@ -7,6 +7,10 @@
   home_essay: true
   top_background: /img/essay/essay-bg.webp
   essay_list:
+    - content: 代码测试要全面，不能只测试了几个，就得出结论。这样的结论，很难立得住，因为代码的逻辑是多变的，测试的范围越大，结论才会越准确。
+      date: 2026-07-27 11:01:00
+      from: AI悦创
+      address: Yang UCL 数学系
     - content: 逻辑没有连贯性，每个点 A、B、C 点都理解，但是无法对逻辑连接起来。
       date: 2026-07-20 20:08:00
       from: AI悦创
